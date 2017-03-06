@@ -14,7 +14,7 @@
 		<module>agilestage-order</module>
 		<module>agilestage-product</module> -->
 		<module>agilestage-member</module>
-		<module>agilestage-sso</module>
+		<!-- <module>agilestage-sso</module> -->
 	</modules>
 	
 	<properties>
